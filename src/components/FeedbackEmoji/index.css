@@ -1,0 +1,16 @@
+.emoji-div-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-img {
+  width: 100px;
+  height: 100px;
+}
+
+.emoji-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+}

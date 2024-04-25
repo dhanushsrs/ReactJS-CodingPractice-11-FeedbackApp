@@ -1,0 +1,46 @@
+/* Write your CSS code here. */
+.feedback-bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback-card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 70%;
+  padding: 25px;
+  text-align: center;
+}
+
+.feedback-heading {
+  text-align: center;
+  color: #0f172a;
+  font-family: 'Roboto';
+}
+
+.feedback-emoji-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.love-img {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.feedback-text {
+  text-align: center;
+  color: #0f172a;
+  font-family: 'Roboto';
+}
+
+.feedback-para {
+  color: #1e293b;
+  font-family: 'Roboto';
+  text-align: center;
+}
